@@ -1,0 +1,14 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@divy/sdl2@0.10.5": "jsr:@divy/sdl2@0.10.5"
+    },
+    "jsr": {
+      "@divy/sdl2@0.10.5": {
+        "integrity": "399d8ff45507d071301c9dde7740dbe35846cb5e9f6cd26ab53b251bb0039cd8"
+      }
+    }
+  },
+  "remote": {}
+}
