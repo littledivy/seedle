@@ -1,4 +1,4 @@
-`seedle.dev`
+# `seedle.dev`
 
 Easy to use windowing framework for Deno.
 
